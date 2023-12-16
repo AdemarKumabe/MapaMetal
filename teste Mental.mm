@@ -1,9 +1,9 @@
 <map version="freeplane 1.11.5">
 <!--To view this file, download free mind mapping software Freeplane from https://www.freeplane.org -->
-<node LOCALIZED_TEXT="new_mindmap" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1610283659942" VGAP_QUANTITY="3 pt">
+<node TEXT="Arquivo de mapa mental compartilhado" FOLDED="false" ID="ID_1090958577" CREATED="1606664858024" MODIFIED="1702737013501" VGAP_QUANTITY="3 pt">
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
-<hook NAME="MapStyle" background="#fbf1c7">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_gruvbox_template.mm"/>
+<hook NAME="MapStyle" background="#fbf1c7" zoom="0.592">
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_gruvbox_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -77,8 +77,22 @@
 </stylenode>
 </map_styles>
 </hook>
-<node TEXT="teste" POSITION="bottom_or_right" ID="ID_1515865433" CREATED="1702661759321" MODIFIED="1702661762139"/>
-<node TEXT="teste" POSITION="bottom_or_right" ID="ID_1907623287" CREATED="1702661762644" MODIFIED="1702661763721"/>
-<node TEXT="teste" POSITION="bottom_or_right" ID="ID_943121434" CREATED="1702661764216" MODIFIED="1702661765237"/>
+<node TEXT="Por que colocar o arquivo de mapa mental no github?" POSITION="bottom_or_right" ID="ID_943121434" CREATED="1702661764216" MODIFIED="1702737016811">
+<node TEXT="Existe a possibilidade de cada arquivo de mapa mental em que cada um está demonstrando em hierarquia suas ideias, e que as atualizações sejam refletidas na branch especifica dequele dequele desenvolvedor?" ID="ID_347399946" CREATED="1702737459821" MODIFIED="1702739233893"/>
+</node>
+<node TEXT="Como colocar?" POSITION="bottom_or_right" ID="ID_739585767" CREATED="1702737021780" MODIFIED="1702737028964">
+<node TEXT="png-231216-113210553-3023954862388370014.png" ID="ID_1696902795" CREATED="1702737136087" MODIFIED="1702737136087">
+<hook URI="teste%20Mental_files/png-231216-113210553-3023954862388370014.png" SIZE="0.97402596" NAME="ExternalObject"/>
+</node>
+<node TEXT="png-231216-113312378-4165362033666439088.png" ID="ID_1332386640" CREATED="1702737195908" MODIFIED="1702737195908">
+<hook URI="teste%20Mental_files/png-231216-113312378-4165362033666439088.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+<node TEXT="png-231216-113332269-10196677497978329605.png" ID="ID_1967408599" CREATED="1702737213543" MODIFIED="1702737213543">
+<hook URI="teste%20Mental_files/png-231216-113332269-10196677497978329605.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+<node TEXT="png-231216-113353893-12255625667103401816.png" ID="ID_1047423420" CREATED="1702737234956" MODIFIED="1702737234956">
+<hook URI="teste%20Mental_files/png-231216-113353893-12255625667103401816.png" SIZE="1.0" NAME="ExternalObject"/>
+</node>
+</node>
 </node>
 </map>
